@@ -233,7 +233,7 @@ $(function() {
 			if (smallImgPos == 112) {
 				smallImgPos = 0;
 			}
-			var src = 'smallImg/psb(' + smallImgPos + ').jpg';
+			var src = 'luoxiaohu/smallImg/psb(' + smallImgPos + ').jpg';
 			$('#testImg').attr({
 				src : src
 			});

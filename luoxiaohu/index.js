@@ -1,8 +1,8 @@
 $(function() {
 	var isChrome = window.google || window.chrome;
 	if (!isChrome) {
-		alert('请使用chrome浏览器');
-		return;
+		//alert('请使用chrome浏览器');
+		//return;
 	}
 	BLUR = false;
 	PULSATION = true;

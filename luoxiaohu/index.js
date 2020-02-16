@@ -204,6 +204,7 @@ $(function() {
 			images.push('img/' + i + '.jpg');
 		var imagePos = 0;
 		function changeBG() {
+			return;
 			var totalW = $(document).width();
 			var totalH = $(document).height();
 			$("#imgDiv").animate({
